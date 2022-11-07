@@ -1,0 +1,15 @@
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\Projetos\Pessoais\designpattern-creational\designpatterns\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
